@@ -1,0 +1,1 @@
+Zad1. Create classes: Person, PersonList and PersonObserver with specific attributes. PersonObserver contains slots to be notified if Person object is added, edited or removed in PeronList and displays all info about modified object.

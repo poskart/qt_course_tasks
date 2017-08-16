@@ -1,0 +1,1 @@
+Zad1. Usage of JavaScrpit. Application which displays 2 rectangles, one inside another. After mouse clicked there is area of inner rectangle computed and printed + prints log when mouse clicked. All using property bindings.

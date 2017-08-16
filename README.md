@@ -1,2 +1,4 @@
 # qt_course_tasks
-Repository with Qt task created during Qt course based on Qt official documentation &amp; examples.
+Repository used for Qt training while attending course of Qt, July 2017.
+
+Contains tasks created during Qt course based on Qt official documentation &amp; examples.
